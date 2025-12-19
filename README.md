@@ -1,11 +1,11 @@
 # SDU Lab Report
 
-A SDU lab report.
+A **unofficial** SDU common lab report.
 
 ## Quick Start
 
 ```typ
-#import "@preview/sdu-common-lab-report-template:0.1.0": *
+#import "@preview/unofficial-sdu-lab-report:0.1.0": *
 
 #show: report.with(
     partner: "",
@@ -18,6 +18,12 @@ A SDU lab report.
     tool-group: "",
     logo: image("sdu.png"),
 )
+```
+
+or
+
+```bash
+typst init @preview/unofficial-sdu-lab-report:0.1.0
 ```
 
 ## License

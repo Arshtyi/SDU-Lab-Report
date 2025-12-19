@@ -1,4 +1,4 @@
-#import "@preview/sdu-common-lab-report-template:0.1.0": *
+#import "@preview/unofficial-sdu-lab-report:0.1.0": *
 
 #show: report.with(
     partner: "                           ",
@@ -9,5 +9,5 @@
     lab-title: "                                                                       ",
     lab-date: datetime.today(),
     tool-group: "                       ",
-    logo: image("sdu.png"),
+    logo: image("sdu-logo.png"),
 )
