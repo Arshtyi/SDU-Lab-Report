@@ -5,7 +5,7 @@ A **unofficial** SDU common lab report.
 ## Quick Start
 
 ```typ
-#import "@preview/unofficial-sdu-lab-report:0.1.0": *
+#import "@preview/unofficial-sdu-lab-report:0.1.1": *
 
 #show: report.with(
     partner: "QM",
